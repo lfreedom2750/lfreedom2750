@@ -11,8 +11,3 @@ Personal Desciption: As a student passionate about mathematics and computer scie
 Contact:
 + Phone: 0334521530
 + Gmail: 23530899@gm.uit.edu.vn
-
-Hobbies:
-+ Programming      + Learning English
-+ Reading books    + Listening to music
-+ Taekwondo practice
