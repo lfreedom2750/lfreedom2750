@@ -1,4 +1,5 @@
 Full Name: Nguyen The Luan
+
 Birthday: 27/05/2005
 Education: University Of Information Technology - Vietnam National University, Ho Chi Minh City
 Major: Computer Science 
